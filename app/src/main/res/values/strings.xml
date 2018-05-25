@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Compendium</string>
+
+
+    <!-- faction strings -->
+    <string name="faction_none">None</string>
+    <string name="faction_order_of_gauntlet">Order of the Gauntlet</string>
+    <string name="faction_lords_alliance">Lord\'s Alliance</string>
+    <string name="faction_emerald_enclave">Emerald Enclave</string>
+    <string name="faction_harpers">Harpers</string>
+    <string name="faction_zhentarim">Zhentarim</string>
+
+
+</resources>
